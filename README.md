@@ -1,3 +1,8 @@
+## Watch the Tutorial
+
+[![Watch the video](https://img.youtube.com/vi/_pPntgcs5rM/maxresdefault.jpg)](https://youtu.be/pPntgcs5rM)
+
+
 ### Step 1: Organizing our Files
 
 ![Organize this file](https://cdn.hashnode.com/res/hashnode/image/upload/v1722970571156/ff4c7287-704c-4900-9c17-fc1c42ce4251.png)
