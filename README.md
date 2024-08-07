@@ -1,6 +1,6 @@
 ### Step 1: Organizing our Files
 
-![Organize this file](https://cdn.hashnode.com/res/hashnode/image/upload/v1722970571156/ff4c7287-704c-4900-9c17-fc1c42ce4251.png align="left")
+![Organize this file](https://cdn.hashnode.com/res/hashnode/image/upload/v1722970571156/ff4c7287-704c-4900-9c17-fc1c42ce4251.png)
 
 1. **Prepare the following files to stay organized:**
     
