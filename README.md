@@ -1,6 +1,6 @@
 ## Watch the Tutorial
 
-[![Watch the video](https://img.youtube.com/vi/_pPntgcs5rM/maxresdefault.jpg)](https://youtu.be/pPntgcs5rM)
+[![Watch the video](https://img.youtube.com/vi/pPntgcs5rM/maxresdefault.jpg)](https://www.youtube.com/watch?v=_pPntgcs5rM)
 
 
 ### Step 1: Organizing our Files
