@@ -37,7 +37,7 @@ By following these steps, we can ensure that our project files are well-organize
 
 ### Step 2: Add Assets or Icon
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1722971540085/1a30d804-ca93-4eec-b88d-05521b63258b.png align="center")
+![Add Assets or Icon](https://cdn.hashnode.com/res/hashnode/image/upload/v1722971540085/1a30d804-ca93-4eec-b88d-05521b63258b.png)
 
 * To add an asset, right-click on the `drawable` folder, then select `New > Vector Assets`.
     
@@ -46,7 +46,7 @@ By following these steps, we can ensure that our project files are well-organize
 
 ### Step 3: Code the bottom\_navigation\_menu.xml
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1722972024678/ee01b2c3-6325-4b1a-8c0e-28c31b925e6b.png align="center")
+![Code the bottom\_navigation\_menu.xml](https://cdn.hashnode.com/res/hashnode/image/upload/v1722972024678/ee01b2c3-6325-4b1a-8c0e-28c31b925e6b.png)
 
 * * <mark>Add three icons for Home, Add, and Profile.</mark>
         
@@ -97,7 +97,7 @@ This file ensures that the bottom navigation icons change color when selected or
 
 ### Step 5: Code the activity\_main.xml
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1722972708364/f182e514-ecc2-471a-9d2c-62db59905bdc.png align="center")
+![Code the activity\_main.xml](https://cdn.hashnode.com/res/hashnode/image/upload/v1722972708364/f182e514-ecc2-471a-9d2c-62db59905bdc.png)
 
 This layout sets up a main activity screen with a white background, a container for fragments above a bottom navigation bar. The navigation bar has icons and text with color states defined by the `bottom_navigation_selector.xml` and references the menu items from `bottom_navigation_menu.xml`.
 
@@ -409,7 +409,7 @@ public class MainActivity extends AppCompatActivity {
 
 ### **OUTPUT**
 
-![A mobile app interface with a bottom navigation bar containing three icons labeled "Home," "Add," and "Profile." The screen shows the text "Homepage" in the center.](https://cdn.hashnode.com/res/hashnode/image/upload/v1722974179816/8b3cbbcf-9ec7-4a76-b035-6fa9cc30807b.gif align="left")
+![A mobile app interface with a bottom navigation bar containing three icons labeled "Home," "Add," and "Profile." The screen shows the text "Homepage" in the center.](https://cdn.hashnode.com/res/hashnode/image/upload/v1722974179816/8b3cbbcf-9ec7-4a76-b035-6fa9cc30807b.gif)
 
 Thank you for following this tutorial on creating a Bottom Navigation View in Android Java.
 
